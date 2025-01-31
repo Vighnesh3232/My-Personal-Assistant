@@ -23,7 +23,7 @@ This **Data Cleaning App** is built using **Streamlit** to provide a user-friend
 ## 🔄 How to Run the Project
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Data-Cleaning-App.git
+   git clone https://github.com/Vighnesh3232/Data-Cleaning-App.git
    cd Data-Cleaning-App
 
 ## Install dependencies
